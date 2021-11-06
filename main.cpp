@@ -12,7 +12,7 @@ What you create in this project will be used as the basis of Project 5 in the co
 ************************
 Part1 purpose:  Learn to write UDTs
 
-You are going to write 10 UDTs in project3.  
+You are going to write 10 UDTs in project3.
 Part1 will be broken up into 5 separate steps, all on the same branch
     Part 1a: you will learn to think about an object in terms of its sub-objects.
     Part 1b: you will write 4 un-related UDTs in plain english
@@ -21,7 +21,7 @@ Part1 will be broken up into 5 separate steps, all on the same branch
     Part 1e: you will convert those 10 plain-english UDTs into code that runs.
 ************************
 
-1) Look at the picture of the car interior (Part1a pic.jpg).  
+1) Look at the picture of the car interior (Part1a pic.jpg).
     Fill in the blanks below which break this car interior down into sub-objects.
 
     Several sub-objects are listed below that make up this car's interior.
@@ -36,51 +36,51 @@ Sub Object 1: Steering Wheel
     Name 4 things you'll find on the:    Steering Wheel
         1) paddle shifters
         2) 'cruise control' controls
-        3) 
-        4) 
+        3) an ugly logo
+        4) sound system controls
     Name 2 things you can do with the:   Steering Wheel
         1) adjust cruise control settings.
-        2)
+        2)activate the car horn
         
 Sub Object 2: Instrument Cluster
     Name 4 things you'll find on the:   Instrument Cluster
-        1)
-        2)
-        3)
-        4)
+        1)speedometer
+        2)tachometer
+        3)odometer
+        4)thatOtherMeter
     Name 3 things you can do with the:   Instrument Cluster
-        1)
-        2)
-        3)
+        1)get vehicle speed feedback
+        2)get engine speed feedback
+        3)get engine failure feedback
     
 Sub Object 3: Environment Controls
     Name 3 things you'll find on the:    Environment Controls
-        1)
-        2)
-        3)
+        1)temperature control
+        2)fan control
+        3)air vent control
     Name 3 things you can do with the:   Environment Controls
-        1)
-        2)
-        3)
+        1)rotate them
+        2)change internal car temperature
+        3)become happy
 
 Sub Object 4: Infotainment System
     Name 3 things you'll find on the:    Infotainment System
-        1)
-        2)
-        3)
+        1)buttons
+        2)screen
+        3)some more buttons
     Name 3 things you can do with the:   Infotainment System
-        1)
-        2)
-        3)
+        1)adjust the audio volume
+        2)change the audio source
+        3)turn audio off
 
 Sub Object 5: Seat 
     Name 3 things you'll find on the:    Seat
-        1)
-        2)
-        3)
+        1)people
+        2)adjusting controls
+        3)head cushion
     Name 2 things you can do with the:   Seat
-        1)
-        2)
+        1)sit
+        2)relax
 */
 /*
  MAKE SURE YOU ARE NOT ON THE MASTER BRANCH
